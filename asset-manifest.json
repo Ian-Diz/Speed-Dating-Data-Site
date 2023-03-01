@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "//ian-diz.github.io/Speed-Dating-Data-Site/static/css/main.e2be6003.css",
-    "main.js": "//ian-diz.github.io/Speed-Dating-Data-Site/static/js/main.0c822bfb.js",
-    "static/js/787.b0e463dc.chunk.js": "//ian-diz.github.io/Speed-Dating-Data-Site/static/js/787.b0e463dc.chunk.js",
-    "static/media/backgroundImageR.png": "//ian-diz.github.io/Speed-Dating-Data-Site/static/media/backgroundImageR.5baa074c0c88ab5f4343.png",
-    "static/media/backgroundImageBL.png": "//ian-diz.github.io/Speed-Dating-Data-Site/static/media/backgroundImageBL.f392b25fb58a7356c1ff.png",
-    "static/media/K2D-Regular.ttf": "//ian-diz.github.io/Speed-Dating-Data-Site/static/media/K2D-Regular.87f6ead5fc76809c5e08.ttf",
-    "static/media/backgroundImageULL.png": "//ian-diz.github.io/Speed-Dating-Data-Site/static/media/backgroundImageULL.3148446cecf8a68c73e5.png",
-    "static/media/backgroundImageURL.png": "//ian-diz.github.io/Speed-Dating-Data-Site/static/media/backgroundImageURL.7fc513c1057083dfd17a.png",
-    "static/media/K2D-Regular.woff": "//ian-diz.github.io/Speed-Dating-Data-Site/static/media/K2D-Regular.ffb44c34c6f03e91953a.woff",
-    "static/media/K2D-Regular.woff2": "//ian-diz.github.io/Speed-Dating-Data-Site/static/media/K2D-Regular.9e161853033db5b0a053.woff2",
-    "static/media/organPageLogo.svg": "//ian-diz.github.io/Speed-Dating-Data-Site/static/media/organPageLogo.2318f3f86482254f42b8cfdcb9c37b40.svg",
-    "static/media/particPageLogo.svg": "//ian-diz.github.io/Speed-Dating-Data-Site/static/media/particPageLogo.d8f4198c8886011695a5b9a9238ea97a.svg",
-    "static/media/pudding.svg": "//ian-diz.github.io/Speed-Dating-Data-Site/static/media/pudding.863394941152ef258987253fce826611.svg",
-    "static/media/creditsLogo.svg": "//ian-diz.github.io/Speed-Dating-Data-Site/static/media/creditsLogo.2aee8682f9fe15a843b39b687209e213.svg",
-    "static/media/homeLogo.svg": "//ian-diz.github.io/Speed-Dating-Data-Site/static/media/homeLogo.54c777275bf434d43c36523d8a7fc314.svg",
-    "index.html": "//ian-diz.github.io/Speed-Dating-Data-Site/index.html",
-    "main.e2be6003.css.map": "//ian-diz.github.io/Speed-Dating-Data-Site/static/css/main.e2be6003.css.map",
-    "main.0c822bfb.js.map": "//ian-diz.github.io/Speed-Dating-Data-Site/static/js/main.0c822bfb.js.map",
-    "787.b0e463dc.chunk.js.map": "//ian-diz.github.io/Speed-Dating-Data-Site/static/js/787.b0e463dc.chunk.js.map"
+    "main.css": "/Speed-Dating-Data-Site/static/css/main.7ae7fa64.css",
+    "main.js": "/Speed-Dating-Data-Site/static/js/main.b38358cf.js",
+    "static/js/787.b0e463dc.chunk.js": "/Speed-Dating-Data-Site/static/js/787.b0e463dc.chunk.js",
+    "static/media/backgroundImageR.png": "/Speed-Dating-Data-Site/static/media/backgroundImageR.5baa074c0c88ab5f4343.png",
+    "static/media/backgroundImageBL.png": "/Speed-Dating-Data-Site/static/media/backgroundImageBL.f392b25fb58a7356c1ff.png",
+    "static/media/K2D-Regular.ttf": "/Speed-Dating-Data-Site/static/media/K2D-Regular.87f6ead5fc76809c5e08.ttf",
+    "static/media/backgroundImageULL.png": "/Speed-Dating-Data-Site/static/media/backgroundImageULL.3148446cecf8a68c73e5.png",
+    "static/media/backgroundImageURL.png": "/Speed-Dating-Data-Site/static/media/backgroundImageURL.7fc513c1057083dfd17a.png",
+    "static/media/K2D-Regular.woff": "/Speed-Dating-Data-Site/static/media/K2D-Regular.ffb44c34c6f03e91953a.woff",
+    "static/media/K2D-Regular.woff2": "/Speed-Dating-Data-Site/static/media/K2D-Regular.9e161853033db5b0a053.woff2",
+    "static/media/organPageLogo.svg": "/Speed-Dating-Data-Site/static/media/organPageLogo.2318f3f86482254f42b8cfdcb9c37b40.svg",
+    "static/media/particPageLogo.svg": "/Speed-Dating-Data-Site/static/media/particPageLogo.d8f4198c8886011695a5b9a9238ea97a.svg",
+    "static/media/pudding.svg": "/Speed-Dating-Data-Site/static/media/pudding.863394941152ef258987253fce826611.svg",
+    "static/media/creditsLogo.svg": "/Speed-Dating-Data-Site/static/media/creditsLogo.2aee8682f9fe15a843b39b687209e213.svg",
+    "static/media/homeLogo.svg": "/Speed-Dating-Data-Site/static/media/homeLogo.54c777275bf434d43c36523d8a7fc314.svg",
+    "index.html": "/Speed-Dating-Data-Site/index.html",
+    "main.7ae7fa64.css.map": "/Speed-Dating-Data-Site/static/css/main.7ae7fa64.css.map",
+    "main.b38358cf.js.map": "/Speed-Dating-Data-Site/static/js/main.b38358cf.js.map",
+    "787.b0e463dc.chunk.js.map": "/Speed-Dating-Data-Site/static/js/787.b0e463dc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2be6003.css",
-    "static/js/main.0c822bfb.js"
+    "static/css/main.7ae7fa64.css",
+    "static/js/main.b38358cf.js"
   ]
 }
