@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 function HomeMain() {
   return (
     <>
@@ -20,8 +22,12 @@ function HomeMain() {
           Are you a participant or an organizer?
         </h2>
         <div className="main__container">
-          <button className="main__organizer">Organizer</button>
-          <button className="main__participant">Participant</button>
+          <Link to="/Organizers" className="main__button main__organizer">
+            <p className="main__link">Organizer</p>
+          </Link>
+          <Link to="/Participants" className="main__button main__participant">
+            <p className="main__link">Participant</p>
+          </Link>
         </div>
       </main>
     </>

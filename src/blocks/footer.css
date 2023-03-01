@@ -6,21 +6,23 @@
 }
 
 .footer__authors {
-  width: 121px;
-  margin: 25px 0 50px 25px;
+  width: 110px;
+  height: 150px;
+  margin: 25px 0 40px 25px;
   display: flex;
   flex-direction: column;
   font-size: 14px;
+  justify-content: space-between;
 }
 
 .footer__authors-text {
-  margin: 0 0 60px 0;
+  margin: 0 0 0 0;
 }
 
 .footer__container {
   display: flex;
   flex-direction: column;
-  margin: 45px 0 50px 0;
+  margin: 45px 0 48px 0;
 }
 
 .footer__title {
@@ -38,7 +40,7 @@
 .footer__links {
   list-style-type: none;
   padding: 0;
-  margin: 0 25px 50px 0;
+  margin: 0 25px 40px 0;
   display: flex;
   justify-content: flex-end;
   flex-direction: column;

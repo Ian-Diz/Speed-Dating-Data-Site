@@ -42,11 +42,48 @@
   color: #00f0ff;
   text-shadow: -1px 1px 2px #000, 1px 1px 0 #000, 1px -1px 0 #000,
     -1px -1px 0 #000;
-  font-size: 49px;
+  font-size: 48px;
   text-align: center;
-  width: 560px;
+  margin: 0;
+}
+
+.header__home {
   position: absolute;
   top: 269px;
   right: 448px;
+  width: 560px;
+}
+
+.header__credits {
+  position: absolute;
+  top: 289px;
+  right: 645px;
+  width: 167px;
+}
+
+.header__organ {
+  position: absolute;
+  top: 131px;
+  right: 448px;
+  width: 472px;
+}
+
+.header__partic {
+  position: absolute;
+  top: 131px;
+  right: 438px;
+  width: 560px;
+}
+
+.header__subtitle {
+  color: #00f0ff;
+  text-shadow: -1px 1px 2px #000, 1px 1px 0 #000, 1px -1px 0 #000,
+    -1px -1px 0 #000;
+  font-size: 39px;
+  width: 391px;
+  position: absolute;
+  top: 410px;
+  right: 525px;
   margin: 0;
+  text-align: center;
 }

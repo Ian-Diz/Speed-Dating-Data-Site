@@ -23,13 +23,24 @@
   margin: 90px auto 0 auto;
 }
 
-.main__organizer {
+.main__container {
+  display: flex;
+}
+
+.main__button {
   width: 200px;
   height: 100px;
-  background-color: #020076;
   border: 4px solid #000;
   border-radius: 73.5px;
   font-size: 30px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  text-decoration: none;
+}
+
+.main__organizer {
+  background-color: #020076;
   margin: 50px 94px 0 426px;
 }
 
@@ -40,18 +51,17 @@
 }
 
 .main__participant {
-  width: 200px;
-  height: 100px;
   background-color: #710000;
-  border: 4px solid #000;
-  border-radius: 73.5px;
-  font-size: 30px;
   margin: 50px 426px 0 94px;
-  line-height: 30px;
 }
 
 .main__participant:hover {
   background-color: #ff0000;
   transition: 0.3s;
   cursor: pointer;
+}
+
+.main__link {
+  color: #000;
+  font-size: 30px;
 }
