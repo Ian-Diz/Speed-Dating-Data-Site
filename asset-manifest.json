@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.65cb786c.css",
+    "main.js": "/static/js/main.9a35ce79.js",
+    "static/js/787.b0e463dc.chunk.js": "/static/js/787.b0e463dc.chunk.js",
+    "static/media/backgroundImageR.png": "/static/media/backgroundImageR.5baa074c0c88ab5f4343.png",
+    "static/media/backgroundImageBL.png": "/static/media/backgroundImageBL.f392b25fb58a7356c1ff.png",
+    "static/media/K2D-Regular.ttf": "/static/media/K2D-Regular.87f6ead5fc76809c5e08.ttf",
+    "static/media/backgroundImageULL.png": "/static/media/backgroundImageULL.3148446cecf8a68c73e5.png",
+    "static/media/backgroundImageURL.png": "/static/media/backgroundImageURL.7fc513c1057083dfd17a.png",
+    "static/media/K2D-Regular.woff": "/static/media/K2D-Regular.ffb44c34c6f03e91953a.woff",
+    "static/media/K2D-Regular.woff2": "/static/media/K2D-Regular.9e161853033db5b0a053.woff2",
+    "static/media/organPageLogo.svg": "/static/media/organPageLogo.2318f3f86482254f42b8cfdcb9c37b40.svg",
+    "static/media/particPageLogo.svg": "/static/media/particPageLogo.d8f4198c8886011695a5b9a9238ea97a.svg",
+    "static/media/pudding.svg": "/static/media/pudding.863394941152ef258987253fce826611.svg",
+    "static/media/creditsLogo.svg": "/static/media/creditsLogo.2aee8682f9fe15a843b39b687209e213.svg",
+    "static/media/homeLogo.svg": "/static/media/homeLogo.54c777275bf434d43c36523d8a7fc314.svg",
+    "index.html": "/index.html",
+    "main.65cb786c.css.map": "/static/css/main.65cb786c.css.map",
+    "main.9a35ce79.js.map": "/static/js/main.9a35ce79.js.map",
+    "787.b0e463dc.chunk.js.map": "/static/js/787.b0e463dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65cb786c.css",
+    "static/js/main.9a35ce79.js"
+  ]
+}
