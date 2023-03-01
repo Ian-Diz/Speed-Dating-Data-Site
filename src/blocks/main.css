@@ -23,6 +23,35 @@
   margin: 90px auto 0 auto;
 }
 
+.main__text {
+  font-size: 20px;
+  line-height: 26px;
+  text-align: center;
+  width: 670px;
+  height: 300px;
+  margin: 0 auto 0 auto;
+  border: 2px solid #00f0ff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.main__visual {
+  width: 670px;
+  height: 300px;
+  margin: 111px auto 111px auto;
+  border: 2px solid #000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.main__placeholder {
+  font-size: 20px;
+  line-height: 26px;
+  text-align: center;
+}
+
 .main__container {
   display: flex;
 }

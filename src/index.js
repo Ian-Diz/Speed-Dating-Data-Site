@@ -5,10 +5,10 @@ import Home from "./pages/home";
 import Credits from "./pages/credits";
 import Organ from "./pages/organ";
 import Partic from "./pages/partic";
-import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import { createHashRouter, RouterProvider } from "react-router-dom";
 import reportWebVitals from "./reportWebVitals";
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: "/",
     element: <Home />,

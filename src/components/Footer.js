@@ -4,10 +4,12 @@ import creditsLogo from "../images/creditsLogo.svg";
 import particPageLogo from "../images/particPageLogo.svg";
 import organPageLogo from "../images/organPageLogo.svg";
 import { Link } from "react-router-dom";
+import ScrollToTop from "./scrollToTop";
 
 function Footer() {
   return (
     <>
+      <ScrollToTop />
       <footer className="footer">
         <div className="footer__authors">
           <p className="footer__authors-text">
