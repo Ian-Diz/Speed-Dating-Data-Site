@@ -1,10 +1,9 @@
-import "../index.css";
 import backgroundImageBL from "../images/backgroundImageBL.png";
 import backgroundImageR from "../images/backgroundImageR.png";
 import backgroundImageURL from "../images/backgroundImageURL.png";
 import backgroundImageULL from "../images/backgroundImageULL.png";
 
-function Header() {
+function HomeHeader() {
   return (
     <>
       <header className="header">
@@ -38,4 +37,4 @@ function Header() {
   );
 }
 
-export default Header;
+export default HomeHeader;

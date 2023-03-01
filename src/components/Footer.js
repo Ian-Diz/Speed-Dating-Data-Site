@@ -4,7 +4,7 @@ import creditsLogo from "../images/creditsLogo.svg";
 import particPageLogo from "../images/particPageLogo.svg";
 import organPageLogo from "../images/organPageLogo.svg";
 
-function Footer() {
+function HomeFooter() {
   return (
     <>
       <footer className="footer">
@@ -69,4 +69,4 @@ function Footer() {
   );
 }
 
-export default Footer;
+export default HomeFooter;

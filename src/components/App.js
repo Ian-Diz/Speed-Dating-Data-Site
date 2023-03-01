@@ -1,13 +1,13 @@
-import Header from "./Header.js";
-import Main from "./Main.js";
-import Footer from "./Footer.js";
+import HomeHeader from "./Header.js";
+import HomeMain from "./Main.js";
+import HomeFooter from "./Footer.js";
 
 function App() {
   return (
     <>
-      <Header />
-      <Main />
-      <Footer />
+      <HomeHeader />
+      <HomeMain />
+      <HomeFooter />
     </>
   );
 }

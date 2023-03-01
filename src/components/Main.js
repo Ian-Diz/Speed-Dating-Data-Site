@@ -1,4 +1,4 @@
-function Main() {
+function HomeMain() {
   return (
     <>
       <main className="main">
@@ -28,4 +28,4 @@ function Main() {
   );
 }
 
-export default Main;
+export default HomeMain;
