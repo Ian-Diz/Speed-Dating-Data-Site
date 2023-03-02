@@ -1,16 +1,18 @@
-import HeaderImages from "./headerImages";
+import headerImage from "../images/headerImage.png";
 
 function OrganHeader() {
   return (
     <>
       <header className="header">
-        <HeaderImages />
-        <h1 className="header__title header__organ">
-          Have You Ever Wanted to Host a Speed Dating Event?
+        <h1 className="header__title header__home">
+          Here's everything you need to know in order to organize a speed dating
+          event
         </h1>
-        <h2 className="header__subtitle">
-          Here’s all the information you need!
-        </h2>
+        <img
+          src={headerImage}
+          alt="A couple sitting in a booth talking"
+          className="header__image"
+        />
       </header>
     </>
   );

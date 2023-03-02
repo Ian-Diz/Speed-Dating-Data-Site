@@ -1,19 +1,20 @@
-import HeaderImages from "./headerImages";
+import headerImage from "../images/headerImage.png";
 
 function ParticHeader() {
   return (
     <>
       <header className="header">
-        <HeaderImages />
-        <h1 className="header__title header__partic">
-          Are You Interested in Participating in a Speed Dating Event?
+        <h1 className="header__title header__home">
+          Here's everything you need to know before going to a speed dating
+          event
         </h1>
-        <h2 className="header__subtitle">
-          Here’s everything you should know before going!
-        </h2>
+        <img
+          src={headerImage}
+          alt="A couple sitting in a booth talking"
+          className="header__image"
+        />
       </header>
     </>
   );
 }
-
 export default ParticHeader;
