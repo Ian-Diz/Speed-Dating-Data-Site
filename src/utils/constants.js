@@ -1,19 +1,5 @@
-/*export const links = {
-  Home: {
-    src: homeLogo,
-    title: "Home",
-  },
-  credits: {
-    src: creditsLogo,
-    title: "Credits",
-  },
-  particPage: {
-    src: particPageLogo,
-    title: "Participants",
-  },
-  organPage: {
-    src: organPageLogo,
-    title: "Organizers",
-  },
-};
-*/
+import satisfactionData from "../data/Participants/satisfaction_survey.json";
+import agesData from "../data/Participants/age_counts.json";
+
+export const satis = [satisfactionData];
+export const ages = [agesData];

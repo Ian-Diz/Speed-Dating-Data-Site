@@ -17,6 +17,7 @@
   font-size: 30px;
   display: flex;
   justify-content: center;
+  align-items: center;
   text-align: center;
   text-decoration: none;
   margin: 0 10px 0 10px;
@@ -46,6 +47,7 @@
   color: #000;
   font-size: 60px;
   font-weight: 700;
+  margin: 0;
 }
 
 .about__container {
@@ -65,4 +67,72 @@
   line-height: 26px;
   margin: 0 auto 0 auto;
   font-family: "K2D", Helvetica, Arial, sans-serif;
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .about {
+    margin: 0;
+  }
+  .about__buttons {
+    flex-direction: column;
+  }
+
+  .about__button {
+    width: 200px;
+    height: 60px;
+    margin: 16px auto 0 auto;
+  }
+
+  .about__link {
+    font-size: 18px;
+  }
+
+  .about__container {
+    width: 280px;
+    margin: 0 auto 0 auto;
+  }
+
+  .about__title {
+    width: 192px;
+    font-size: 23px;
+    margin: 16px auto 0 auto;
+    text-align: center;
+  }
+
+  .about__intro {
+    font-size: 9px;
+    text-align: center;
+    font-weight: 400;
+    line-height: 1.2em;
+    margin: 16px 0 16px 0;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1439px) {
+  .about__button {
+    width: 362px;
+    height: 109px;
+    margin: 21px 10px 0 10px;
+  }
+
+  .about__link {
+    font-size: 32px;
+    text-align: center;
+  }
+
+  .about__container {
+    margin: 40px 40px 40px 384px;
+    width: 352px;
+  }
+
+  .about__title {
+    width: 341px;
+    font-size: 32px;
+  }
+
+  .about__intro {
+    font-size: 11px;
+    font-weight: 600;
+    line-height: 1.2em;
+  }
 }

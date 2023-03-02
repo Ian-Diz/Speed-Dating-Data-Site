@@ -125,8 +125,70 @@
   background-color: #000;
 }
 
+.partic__button:hover {
+  transition: 0.3s;
+  opacity: 0.6;
+  cursor: pointer;
+}
+
 .partic__link {
   font-size: 30px;
   font-weight: 700;
   color: #c9c9c9;
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .partic__grid {
+    display: flex;
+    flex-direction: column;
+    margin: 30px 10px 0 10px;
+  }
+
+  .partic__question {
+    font-size: 25px;
+  }
+
+  .partic__text {
+    font-size: 15px;
+    margin: 5px 0 0 0;
+  }
+
+  .partic__button {
+    width: 200px;
+    height: 55px;
+    margin: 25px auto 25px auto;
+    align-items: center;
+  }
+
+  .partic__link {
+    font-size: 15px;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1439px) {
+  .partic__grid {
+    grid-template-columns: 351px 350px;
+    margin: 78px 20px 0 20px;
+    gap: 30px 25px;
+  }
+
+  .partic__question {
+    font-size: 32px;
+  }
+
+  .partic__text {
+    font-size: 15px;
+    margin: 5px 0 0 0;
+  }
+
+  .partic__button {
+    width: 270px;
+    height: 75px;
+    margin: 50px auto 50px auto;
+    align-items: center;
+  }
+
+  .partic__link {
+    font-size: 20px;
+  }
 }

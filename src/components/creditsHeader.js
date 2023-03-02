@@ -5,8 +5,7 @@ function CreditsHeader() {
     <>
       <header className="header">
         <h1 className="header__title header__home">
-          Here's everything you need to know in order to organize a speed dating
-          event
+          Thanks to those who provided images and logos!
         </h1>
         <img
           src={headerImage}

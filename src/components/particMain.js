@@ -12,7 +12,7 @@ function ParticMain() {
             <p className="partic__text">Chunk of text</p>
           </div>
           <div className="partic__visual partic__one-viz">
-            <p className="partic__placeholder">Visualization of data</p>
+            <canvas id="ParticOne"></canvas>
           </div>
           <div className="partic__container partic__two-text">
             <h2 className="partic__question">

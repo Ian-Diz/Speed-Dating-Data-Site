@@ -1,6 +1,5 @@
 @font-face {
   font-family: "K2D";
-  src: url("./K2D-Regular.ttf") format("truetype"),
-    url("./K2D-Regular.woff") format("woff"),
+  src: url("./K2D-Regular.woff") format("woff"),
     url("./K2D-Regular.woff2") format("woff2");
 }
