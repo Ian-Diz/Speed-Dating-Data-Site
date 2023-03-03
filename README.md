@@ -10,11 +10,19 @@ The design of the website is adaptable, meaning you can view it from any kind of
 
 **Images**
 
+_Main page, desktop view_
+
 ![Image of main page, desktop](https://cdn.discordapp.com/attachments/486264193402798080/1081247202451656867/image.png)
+
+_Main page, tablet view_
 
 ![Image of main page, tablet](https://cdn.discordapp.com/attachments/486264193402798080/1081247169836748831/image.png)
 
+_Main page, mobile view_
+
 ![Image of main page, mobile](https://cdn.discordapp.com/attachments/486264193402798080/1081247250291884222/image.png)
+
+_Little sneakpeak of the content, showcasing data charts and text_
 
 ![Content sneakpeak](https://cdn.discordapp.com/attachments/486264193402798080/1081247314766725230/image.png)
 
