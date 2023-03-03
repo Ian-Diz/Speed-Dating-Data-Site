@@ -8,6 +8,16 @@ Here we have collected and analyzed data from a speed dating event that was cond
 
 The design of the website is adaptable, meaning you can view it from any kind of device, whether phone, tablet, or desktop. [Chart.js](https://www.chartjs.org/) is the library we used for the total of 15 charts you can see throughout the website. [Unsplash](https://www.unplash.com/) was used to find royalty free pictures, seen in the headers of all the pages. [FlatIcon](https://www.flaticon.com/) is what was used to find all the logos that you see in the nav bar and the footer. This is a React app, which made the multipage function a little bit harder than expected to incorporate, however this issue was fixed by using [ReactRouter](https://reactrouter.com/en/main). The majority of the website is coded with JS, with CSS being the primary styling.
 
+**Images**
+
+![Image of main page, desktop](https://cdn.discordapp.com/attachments/486264193402798080/1081247202451656867/image.png)
+
+![Image of main page, tablet](https://cdn.discordapp.com/attachments/486264193402798080/1081247169836748831/image.png)
+
+![Image of main page, mobile](https://cdn.discordapp.com/attachments/486264193402798080/1081247250291884222/image.png)
+
+![Content sneakpeak](https://cdn.discordapp.com/attachments/486264193402798080/1081247314766725230/image.png)
+
 **Website Link**
 
-- [Link to the project on github](https://ian-diz.github.io/Speed-Dating-Data-Site/)
+- [Link to the website on GitHub Pages](https://ian-diz.github.io/Speed-Dating-Data-Site/)
