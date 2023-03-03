@@ -5,7 +5,8 @@ function OrganHeader() {
     <>
       <header className="header">
         <h1 className="header__title header__home">
-          Here's everything you need to know in order to organize a speed dating
+          <span className="header__blue">Six</span> things you need to know
+          before organzing a <span className="header__blue">speed dating</span>{" "}
           event:
         </h1>
         <img

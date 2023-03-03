@@ -23,8 +23,16 @@
   font-weight: 700;
 }
 
-.header__color {
-  color: #7198ff;
+.header__purple {
+  color: #c171ff;
+}
+
+.header__blue {
+  color: #0000ff;
+}
+
+.header__red {
+  color: #ff0000;
 }
 
 .header__arrow {
