@@ -10,7 +10,7 @@ function DateLengthChart() {
     labels: data.map((item) => item.response),
     datasets: [
       {
-        label: "Match Rate",
+        label: "Amount of responses",
         data: data.map((item) => item.amount),
         backgroundColor: ["#7198FF"],
         borderColor: "black",

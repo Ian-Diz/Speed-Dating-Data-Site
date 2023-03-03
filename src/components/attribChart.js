@@ -10,6 +10,7 @@ function AttribChart() {
     labels: data.map((item) => item.trait),
     datasets: [
       {
+        indexAxis: "y",
         data: data.map((item) => item.score),
         backgroundColor: ["#FF9C9C"],
         borderColor: "black",

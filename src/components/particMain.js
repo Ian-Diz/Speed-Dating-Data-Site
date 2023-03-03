@@ -32,10 +32,10 @@ function ParticMain() {
             </h2>
             <p className="partic__text">
               On average people will find 6 others that like them, however the
-              number of matches goes quite a lot! Generally speaking, people
-              will only get 2.5 matches... I wonder how they got half a person
-              to say yes. Beyond that very few people make contact after the
-              fact, and even fewer go on a date.
+              number of actual matches people got is a lot lower. Generally
+              speaking, people will only get 2.5 matches... I wonder how they
+              got half a person to say yes. Beyond that very few people make
+              contact after the fact, and even fewer go on a date.
             </p>
           </div>
           <div className="partic__visual partic__two-viz">
@@ -56,11 +56,11 @@ function ParticMain() {
           </div>
           <div className="partic__container partic__four-text">
             <h2 className="partic__question">
-              4. What professions get the most matches?
+              4. What professions are most likely to get a match?
             </h2>
             <p className="partic__text">
-              The career that gets the most matches is actually those in the
-              Humanitarian affairs field! A close second are lawyers, and a
+              The career that is most likely to get a match is actually those in
+              the Humanitarian affairs field! A close second are lawyers, and a
               large range of bank related jobs.
             </p>
           </div>
@@ -87,7 +87,7 @@ function ParticMain() {
             <p className="partic__text">
               Actually, as much as it might surprise you, the match rate doesn't
               really change that much whether you've met them before or not.
-              Yes, you are a little bit more likely to match with someone who
+              Yes, you are a little bit more likely to match with someone whom
               you've met before, but the difference isn't huge.
             </p>
           </div>
@@ -99,8 +99,8 @@ function ParticMain() {
               7. What attributes do people look for in others?
             </h2>
             <p className="partic__text">
-              The most sought after attribute in dates were the person's
-              attractiveness. The next highest being intelligence, then fun and
+              The most sought after attribute in dates was the person's
+              attractiveness. The next highest being intelligence, with fun and
               sincerity very close together. Time for us all to become sincere
               clowns!
             </p>
@@ -110,10 +110,13 @@ function ParticMain() {
           </div>
           <div className="partic__container partic__eight-text">
             <h2 className="partic__question">8. How self-aware are people?</h2>
-            <p className="partic__text">Chunk of text</p>
+            <p className="partic__text">
+              No surprise, on average people rated themselves higher than how
+              othes rated them. Perhaps there's something to read into here...
+            </p>
           </div>
           <div className="partic__visual partic__eight-viz">
-            <p className="partic__placeholder">Visualization of data</p>
+            <AwareChart />
           </div>
           <div className="partic__container partic__nine-text">
             <h2 className="partic__question">

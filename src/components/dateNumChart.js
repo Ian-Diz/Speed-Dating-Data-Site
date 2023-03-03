@@ -10,6 +10,7 @@ function DateNumChart() {
     labels: data.map((item) => item.response),
     datasets: [
       {
+        indexAxis: "y",
         data: data.map((item) => item.amount),
         backgroundColor: ["#7198FF"],
         borderColor: "black",

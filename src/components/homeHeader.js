@@ -7,8 +7,8 @@ function HomeHeader() {
       <header className="header">
         <div className="header__container">
           <h1 className="header__title header__home">
-            Valueable Insights about
-            <span className="header__color"> speed dating</span>
+            Valuable Insights about
+            <span className="header__color"> speed dating</span>:
           </h1>
           <img
             src={arrow}

@@ -10,7 +10,8 @@ function MatchChart() {
     labels: data.map((item) => item.stage),
     datasets: [
       {
-        label: "Satisfaction",
+        indexAxis: "y",
+        label: "Average",
         data: data.map((item) => item.avg_per_participant),
         backgroundColor: ["#FF9C9C"],
         borderColor: "black",
@@ -27,6 +28,7 @@ function MatchChart() {
       <Bar
         data={chartData}
         options={{
+          indexAxis: "y",
           plugins: {
             title: {
               display: false,

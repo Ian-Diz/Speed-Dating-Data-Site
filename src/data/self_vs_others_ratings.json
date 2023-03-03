@@ -1,12 +1,12 @@
 [
-  { "trait": "Attractiveness_others", "avg_rating": 6.1904114622 },
-  { "trait": "Sincerity_others", "avg_rating": 7.1752564578 },
-  { "trait": "Intelligence_others", "avg_rating": 7.3693012884 },
-  { "trait": "Fun_others", "avg_rating": 6.400598653 },
-  { "trait": "Ambition_others", "avg_rating": 6.7784090909 },
   { "trait": "Attractiveness_self", "avg_rating": 7.0843519303 },
+  { "trait": "Attractiveness_others", "avg_rating": 6.1904114622 },
   { "trait": "Sincerity_self", "avg_rating": 8.2957763524 },
+  { "trait": "Sincerity_others", "avg_rating": 7.1752564578 },
   { "trait": "Intelligence_self", "avg_rating": 8.4044535883 },
+  { "trait": "Intelligence_others", "avg_rating": 7.3693012884 },
   { "trait": "Fun_self", "avg_rating": 7.704344669 },
-  { "trait": "Ambition_self", "avg_rating": 7.5778772843 }
+  { "trait": "Fun_others", "avg_rating": 6.400598653 },
+  { "trait": "Ambition_self", "avg_rating": 7.5778772843 },
+  { "trait": "Ambition_others", "avg_rating": 6.7784090909 }
 ]

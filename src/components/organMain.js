@@ -28,9 +28,9 @@ function OrganMain() {
               2. What ages get the most matches?
             </h2>
             <p className="organ__text">
-              Age wise, the people who get the most matches are 20. The match
-              rates for those between 21 and 24 are relatively similar, same
-              goes for those 26-30.
+              Those in their early to mid twenties were the most likely to get a
+              match. The highest rate in that group is at 25, not including the
+              spike at 20 because of its lack of data density.
             </p>
           </div>
           <div className="organ__visual organ__two-viz">
@@ -41,9 +41,10 @@ function OrganMain() {
               3. Were people happy with how many dates they went on?
             </h2>
             <p className="organ__text">
-              A lot people liked how many dates they got to go on. That said,
-              almost the same amount said that they went on too many dates. Not
-              that many people thought they went on too few.
+              Most people had around 10-20 dates. A lot people liked how many
+              dates they got to go on, though, almost the same amount said that
+              they went on too many dates. Not that many people thought they
+              went on too few.
             </p>
           </div>
           <div className="organ__visual organ__three-viz">
@@ -54,9 +55,9 @@ function OrganMain() {
               4. Do people like 4 minute dates?
             </h2>
             <p className="organ__text">
-              Just below half of participants felt like four minute dates were
-              too short. 36% of them, however, felt like it was the right amount
-              of time. A quite negligible amount felt it was too long.
+              Over half of the participants felt like four minute dates were too
+              short. 41% of them, however, felt like it was the right amount of
+              time. A quite negligible amount felt it was too long.
             </p>
           </div>
           <div className="organ__visual organ__four-viz">
@@ -69,7 +70,7 @@ function OrganMain() {
             <p className="organ__text">
               Actually, as much as it might surprise you, the match rate doesn't
               really change that much whether you've met them before or not.
-              Yes, you are a little bit more likely to match with someone who
+              Yes, you are a little bit more likely to match with someone whom
               you've met before, but the difference isn't huge.
             </p>
           </div>

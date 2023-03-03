@@ -10,6 +10,7 @@ function FamilChart() {
     labels: data.map((item) => item.status),
     datasets: [
       {
+        indexAxis: "y",
         data: data.map((item) => item.like_receive_rate),
         backgroundColor: ["#7198FF"],
         borderColor: "black",

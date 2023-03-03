@@ -10,8 +10,8 @@ function AwareChart() {
     labels: data.map((item) => item.trait),
     datasets: [
       {
-        data: data.map((item) => item.score),
-        backgroundColor: ["#FF9C9C"],
+        data: data.map((item) => item.avg_rating),
+        backgroundColor: ["#FF7777", "#FF9C9C"],
         borderColor: "black",
         borderWidth: 1,
         legend: {

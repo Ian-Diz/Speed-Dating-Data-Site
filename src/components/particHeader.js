@@ -6,7 +6,7 @@ function ParticHeader() {
       <header className="header">
         <h1 className="header__title header__home">
           Here's everything you need to know before going to a speed dating
-          event
+          event:
         </h1>
         <img
           src={headerImage}
