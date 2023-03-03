@@ -1,12 +1,18 @@
 .header {
   display: flex;
   justify-content: space-between;
+  flex-direction: column;
 }
 
 .header__image {
   margin: 40px 40px 0 0;
   width: 660px;
   height: 354px;
+}
+
+.header__horizontal {
+  display: flex;
+  flex-direction: row;
 }
 
 .header__container {
@@ -43,6 +49,10 @@
 
 @media screen and (min-width: 320px) and (max-width: 767px) {
   .header {
+    flex-direction: column;
+  }
+
+  .header__horizontal {
     flex-direction: column;
   }
 
