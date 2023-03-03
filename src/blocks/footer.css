@@ -79,7 +79,7 @@
 
 @media screen and (min-width: 320px) and (max-width: 767px) {
   .footer {
-    height: 51px;
+    height: 80px;
   }
 
   .footer__container {
@@ -99,30 +99,34 @@
   }
 
   .footer__links {
-    width: 80px;
+    width: 114px;
     margin: 9px 0 9px 0;
   }
 
   .footer__links-item {
-    width: 30px;
-    height: 5px;
+    width: 57px;
+    height: 10px;
   }
 
   .footer__link {
-    font-size: 4px;
+    font-size: 8px;
   }
 
   .footer__logo {
-    width: 5px;
-    height: 5px;
+    width: 7px;
+    height: 7px;
     margin: 0 1px 0 0;
   }
 
   .footer__authors {
     width: 25px;
-    height: 28px;
-    font-size: 3px;
+    height: 66px;
+    font-size: 5px;
     margin: 12px 14px 12px 0;
+  }
+
+  .footer__authors-text {
+    margin: 0 0 5px 0;
   }
 }
 
@@ -149,30 +153,29 @@
 
   .footer__links {
     margin: 43px 0 0 0;
-    width: 175px;
+    width: 215px;
   }
 
   .footer__links-item {
-    width: 78px;
+    width: 107px;
     height: 11px;
   }
 
   .footer__link {
-    font-size: 10px;
+    font-size: 15px;
     font-weight: 700;
   }
 
   .footer__logo {
-    height: 11px;
-    width: 11px;
+    height: 14px;
+    width: 14px;
     margin: 0 2px 0 0;
   }
 
   .footer__authors {
-    width: 59px;
+    width: 65px;
     height: 66px;
-    font-size: 7.5px;
-    font-weight: 700;
+    font-size: 10px;
     margin: 29px 32px 32px 0;
   }
 }

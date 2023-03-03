@@ -1,0 +1,6 @@
+[
+  { "stage": "Likes", "avg_per_participant": 6.3793103448 },
+  { "stage": "Matches", "avg_per_participant": 2.5045372051 },
+  { "stage": "Contact made", "avg_per_participant": 0.3049001815 },
+  { "stage": "Had a date", "avg_per_participant": 0.1705989111 }
+]

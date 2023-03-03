@@ -1,0 +1,19 @@
+[
+  { "hobby": "movies", "avg_rating": 7.8988970588 },
+  { "hobby": "music", "avg_rating": 7.875 },
+  { "hobby": "dining", "avg_rating": 7.7757352941 },
+  { "hobby": "reading", "avg_rating": 7.6470588235 },
+  { "hobby": "museums", "avg_rating": 6.9724264706 },
+  { "hobby": "concerts", "avg_rating": 6.84375 },
+  { "hobby": "theater", "avg_rating": 6.7610294118 },
+  { "hobby": "art", "avg_rating": 6.6893382353 },
+  { "hobby": "sports", "avg_rating": 6.3952205882 },
+  { "hobby": "exercise", "avg_rating": 6.2867647059 },
+  { "hobby": "hiking", "avg_rating": 5.7573529412 },
+  { "hobby": "clubbing", "avg_rating": 5.7518382353 },
+  { "hobby": "shopping", "avg_rating": 5.6047794118 },
+  { "hobby": "tv", "avg_rating": 5.3253676471 },
+  { "hobby": "tvsports", "avg_rating": 4.5496323529 },
+  { "hobby": "yoga", "avg_rating": 4.4154411765 },
+  { "hobby": "gaming", "avg_rating": 3.8400735294 }
+]

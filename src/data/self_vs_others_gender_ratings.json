@@ -1,0 +1,28 @@
+[
+  {
+    "gender": "Female",
+    "Attractiveness_others": 6.4614009307,
+    "Sincerity_others": 7.251052762,
+    "Intelligence_others": 7.2912019827,
+    "Fun_others": 6.5201643017,
+    "Ambition_others": 6.604590506,
+    "Attractiveness_self": 7.2190915715,
+    "Sincerity_self": 8.458343454,
+    "Intelligence_self": 8.320621812,
+    "Fun_self": 7.8936118533,
+    "Ambition_self": 7.6324993928
+  },
+  {
+    "gender": "Male",
+    "Attractiveness_others": 5.9194219936,
+    "Sincerity_others": 7.099777997,
+    "Intelligence_others": 7.4473619024,
+    "Fun_others": 6.2805548613,
+    "Ambition_others": 6.9527734171,
+    "Attractiveness_self": 6.9505547516,
+    "Sincerity_self": 8.1343463579,
+    "Intelligence_self": 8.487698987,
+    "Fun_self": 7.5164013507,
+    "Ambition_self": 7.5236372407
+  }
+]

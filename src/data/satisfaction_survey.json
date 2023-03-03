@@ -1,0 +1,7 @@
+[
+  { "response": "Very Satisfied", "amount": 19 },
+  { "response": "Satisfied", "amount": 144 },
+  { "response": "Somewhat Satisfied", "amount": 208 },
+  { "response": "Somewhat Dissatisfied", "amount": 83 },
+  { "response": "Dissatisfied", "amount": 31 }
+]

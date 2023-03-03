@@ -6,10 +6,10 @@ function HomeAbout() {
       <section className="about">
         <div className="about__buttons">
           <Link to="/Organizers" className="about__button about__organizer">
-            <p className="about__link">I'm an Organizer</p>
+            <p className="about__link">Organizer Data</p>
           </Link>
           <Link to="/Participants" className="about__button about__participant">
-            <p className="about__link">I'm a Participant</p>
+            <p className="about__link">Participant Data</p>
           </Link>
         </div>
         <div className="about__container">

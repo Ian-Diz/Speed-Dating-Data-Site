@@ -1,0 +1,14 @@
+[
+  {
+    "gender": "Female",
+    "status": "Familiar",
+    "like_receive_rate": 0.4837535014
+  },
+  {
+    "gender": "Female",
+    "status": "Strangers",
+    "like_receive_rate": 0.4789624138
+  },
+  { "gender": "Male", "status": "Familiar", "like_receive_rate": 0.3984316853 },
+  { "gender": "Male", "status": "Strangers", "like_receive_rate": 0.3723129523 }
+]

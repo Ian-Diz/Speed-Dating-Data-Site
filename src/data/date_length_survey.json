@@ -1,0 +1,5 @@
+[
+  { "response": "Too short", "amount": 269 },
+  { "response": "Just right", "amount": 202 },
+  { "response": "Too long", "amount": 14 }
+]

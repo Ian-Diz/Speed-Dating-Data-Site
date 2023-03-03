@@ -1,0 +1,28 @@
+[
+  {
+    "career_name": "Humanitarian Affairs",
+    "like_receive_rate": 0.4808297258
+  },
+  { "career_name": "Other", "like_receive_rate": 0.462108033 },
+  { "career_name": "Lawyer", "like_receive_rate": 0.459085718 },
+  {
+    "career_name": "Banking/Consulting/Finance/Marketing/Business/CEO/Entrepreneur/Admin",
+    "like_receive_rate": 0.4443987969
+  },
+  { "career_name": "Journalism", "like_receive_rate": 0.4318181818 },
+  { "career_name": "Doctor/Medicine", "like_receive_rate": 0.4315858118 },
+  { "career_name": "Social Work", "like_receive_rate": 0.4301587302 },
+  { "career_name": "Undecided", "like_receive_rate": 0.4099434571 },
+  { "career_name": "Academic/Research", "like_receive_rate": 0.4072581773 },
+  {
+    "career_name": "Creative Arts/Entertainment",
+    "like_receive_rate": 0.4009107915
+  },
+  { "career_name": "Architecture", "like_receive_rate": 0.4 },
+  { "career_name": "Pro sports/Athletics", "like_receive_rate": 0.4 },
+  { "career_name": "Psychologist", "like_receive_rate": 0.3990970072 },
+  { "career_name": "Engineer", "like_receive_rate": 0.3647940875 },
+  { "career_name": "Real Estate", "like_receive_rate": 0.3537037037 },
+  { "career_name": "Politics", "like_receive_rate": 0.3480808081 },
+  { "career_name": "Speech Pathology", "like_receive_rate": 0.1428571429 }
+]
