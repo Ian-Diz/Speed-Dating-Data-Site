@@ -1,70 +1,13 @@
-# Getting Started with Create React App
+# Speed Dating Data Site
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Intro**
 
-## Available Scripts
+Here we have collected and analyzed data from a speed dating event that was conducted at Columbia University, NY, between October 2002 and April 2004. In this event there were a total of 551 participants over the course of 21 waves. Each participant had an opportunity to meet with each other person of the opposite gender who participated in the same wave they did. After a four minute date, both participants filled out a scorecard about the person they went on the date with. We have taken this data and have highlighted the sections of it that we believe would be useful for organizers and participants of future speed date events to know. Over the four pages on this website, we have laid out the information in a fun and eye catching way.
 
-In the project directory, you can run:
+**Design**
 
-### `npm start`
+The design of the website is adaptable, meaning you can view it from any kind of device, whether phone, tablet, or desktop. [Chart.js](https://www.chartjs.org/) is the library we used for the total of 15 charts you can see throughout the website. [Unsplash](https://www.unplash.com/) was used to find royalty free pictures, seen in the headers of all the pages. [FlatIcon](https://www.flaticon.com/) is what was used to find all the logos that you see in the nav bar and the footer. This is a React app, which made the multipage function a little bit harder than expected to incorporate, however this issue was fixed by using [ReactRouter](https://reactrouter.com/en/main). The majority of the website is coded with JS, with CSS being the primary styling.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Website Link**
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [Link to the project on github](https://ian-diz.github.io/Speed-Dating-Data-Site/)
